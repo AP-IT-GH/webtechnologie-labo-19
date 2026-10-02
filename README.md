@@ -11,7 +11,7 @@ webtechnologie/
 │  │  │  ├─ image-1.jpg 
 │  │  │  └─ image-n.jpg 
 │  │  ├─ css/
-│  │  │   ├─ reset.css
+│  │  │   ├─ normalize.css
 │  │  │   └─ style.css
 │  │  └─ js/
 │  │     └─ script.js
